@@ -1,2 +1,2 @@
 # ola-mundo
-primeiro projeto em C
+Primeiro projeto em C
